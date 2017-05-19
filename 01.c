@@ -1,4 +1,5 @@
-#include <stdio.h>					//改了顺序和删除了暂停 
+//invmat MatrixOpp MatrixInver Surplus matrix_inv invmat flag可替换
+#include <stdio.h>					//改了顺序和删除了暂停
 #include <malloc.h>
 #include <stdlib.h>
 
